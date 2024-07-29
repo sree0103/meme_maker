@@ -1,3 +1,16 @@
+This project is created to understand about the form handling using react and using hook like useEffect 
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
